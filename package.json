@@ -1,0 +1,20 @@
+{
+  "name": "impex-aligner",
+  "main": "./lib/impex-aligner",
+  "version": "0.1",
+  "description": "A semi-colon aligner for hybris IMPEX files",
+  "keywords": [
+    "hybris",
+    "impex",
+    "semicolon",
+    "align"
+  ],
+  "repository": "https://github.com/Muffinoota/impex-aligner",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+}
