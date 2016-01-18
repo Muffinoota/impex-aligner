@@ -4,7 +4,7 @@ module.exports =
     config:
         alignmentSpaceChars:
             type: 'array'
-            default: []
+            default: [';']
             items:
                 type: "string"
             description: "insert space in front of the character (a=1 > a =1)"
@@ -18,7 +18,7 @@ module.exports =
             order: 1
         addSpacePostfix:
             type: 'boolean'
-            default: yes
+            default: true
             description: "insert space after the matching character (a=1 > a= 1) if character is part of the 'alignment space chars'"
             order: 3
 

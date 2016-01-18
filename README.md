@@ -25,9 +25,10 @@ INSERT_UPDATE fooComponent ; uid[unique=true]   ; name                  ; conten
                            ; yetAnotherPageName ; information           ; $fooResource/foo3.html
 ```
 
-## Also I made a GIF
+## Also I made a GIF of the alignment.
+#### (After alignment you can fold the code too!)
 
-![](https://i.gyazo.com/3c5a0b30f2c39a992bd59034c050b66b.gif)
+![](https://i.gyazo.com/eb50e4f7f22271a89c3b3e2db7288907.gif)
 
 ### License
 
