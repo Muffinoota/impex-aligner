@@ -1,7 +1,7 @@
 {
   "name": "impex-aligner",
   "main": "./lib/impex-aligner",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A semi-colon aligner for hybris IMPEX files",
   "keywords": [
     "hybris",
